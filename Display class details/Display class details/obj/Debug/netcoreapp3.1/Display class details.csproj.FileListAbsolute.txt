@@ -1,0 +1,13 @@
+C:\Users\USER\Source\Repos\Display class details\Display class details\bin\Debug\netcoreapp3.1\Display class details.exe
+C:\Users\USER\Source\Repos\Display class details\Display class details\bin\Debug\netcoreapp3.1\Display class details.deps.json
+C:\Users\USER\Source\Repos\Display class details\Display class details\bin\Debug\netcoreapp3.1\Display class details.runtimeconfig.json
+C:\Users\USER\Source\Repos\Display class details\Display class details\bin\Debug\netcoreapp3.1\Display class details.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\Display class details\Display class details\bin\Debug\netcoreapp3.1\Display class details.dll
+C:\Users\USER\Source\Repos\Display class details\Display class details\bin\Debug\netcoreapp3.1\Display class details.pdb
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.dll
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.pdb
+C:\Users\USER\Source\Repos\Display class details\Display class details\obj\Debug\netcoreapp3.1\Display class details.genruntimeconfig.cache
