@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Seat Not Available Exception/1.0.0": {
+        "runtime": {
+          "Seat Not Available Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seat Not Available Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

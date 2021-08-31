@@ -1,0 +1,13 @@
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\bin\Debug\netcoreapp3.1\Seat Not Available Exception.exe
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\bin\Debug\netcoreapp3.1\Seat Not Available Exception.deps.json
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\bin\Debug\netcoreapp3.1\Seat Not Available Exception.runtimeconfig.json
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\bin\Debug\netcoreapp3.1\Seat Not Available Exception.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\bin\Debug\netcoreapp3.1\Seat Not Available Exception.dll
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\bin\Debug\netcoreapp3.1\Seat Not Available Exception.pdb
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.dll
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.pdb
+C:\Users\USER\Source\Repos\Seat Not Available Exception\Seat Not Available Exception\obj\Debug\netcoreapp3.1\Seat Not Available Exception.genruntimeconfig.cache
